@@ -3,3 +3,5 @@
 # i refusse to entertain doubt 
 # I CAN DO IT 
 # author Odunayomimare 
+echo "go lil rockstar"
+
