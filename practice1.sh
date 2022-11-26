@@ -8,4 +8,6 @@ echo "look mama! i made it "
 echo "thanks so much dear Jesus"
 echo "why is it not pushing"
 echo "push my darling script, PUSH!!!!!"
+echo "anything"
+
 
