@@ -5,4 +5,6 @@ deployment in dev
 deploy in master
 
 moving to staging area 
+ echo "good job"
 
+ This is what we have 
